@@ -1,0 +1,7 @@
+[submodule "frontend"]
+  path = frontend
+  url = git@github.com:Pawel9903/rpg-frontend.git
+
+[submodule "backend"]
+  path = backend
+  url = git@github.com:Pawel9903/rpg-backend.git
