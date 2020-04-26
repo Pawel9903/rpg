@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff9dc55b-0488-47bb-ba93-136965b63630" name="Default Changelist" comment="" />
+    <list default="true" id="ff9dc55b-0488-47bb-ba93-136965b63630" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -79,7 +83,8 @@
       <workItem from="1586779784166" duration="919000" />
       <workItem from="1586781428291" duration="4786000" />
       <workItem from="1586880574207" duration="7498000" />
-      <workItem from="1587054754435" duration="7632000" />
+      <workItem from="1587054754435" duration="7907000" />
+      <workItem from="1587917017290" duration="1314000" />
     </task>
     <servers />
   </component>
@@ -106,6 +111,10 @@
     </state>
     <state x="221" y="68" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1585936222988" />
     <state x="221" y="68" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1586080922113" />
+    <state x="389" y="80" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587918029017">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="389" y="80" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.822@0.23.1440.822" timestamp="1587918029017" />
     <state x="368" y="45" width="722" height="777" key="find.popup" timestamp="1587060992209">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
